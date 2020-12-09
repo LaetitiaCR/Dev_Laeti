@@ -1,0 +1,9 @@
+C:\Users\Laeti\source\repos\WinsFormsAppCRUD\WinsFormsAppCRUD\bin\Debug\WinsFormsAppCRUD.exe.config
+C:\Users\Laeti\source\repos\WinsFormsAppCRUD\WinsFormsAppCRUD\bin\Debug\WinsFormsAppCRUD.exe
+C:\Users\Laeti\source\repos\WinsFormsAppCRUD\WinsFormsAppCRUD\bin\Debug\WinsFormsAppCRUD.pdb
+C:\Users\Laeti\source\repos\WinsFormsAppCRUD\WinsFormsAppCRUD\obj\Debug\WinsFormsAppCRUD.Form1.resources
+C:\Users\Laeti\source\repos\WinsFormsAppCRUD\WinsFormsAppCRUD\obj\Debug\WinsFormsAppCRUD.Properties.Resources.resources
+C:\Users\Laeti\source\repos\WinsFormsAppCRUD\WinsFormsAppCRUD\obj\Debug\WinsFormsAppCRUD.csproj.GenerateResource.cache
+C:\Users\Laeti\source\repos\WinsFormsAppCRUD\WinsFormsAppCRUD\obj\Debug\WinsFormsAppCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Laeti\source\repos\WinsFormsAppCRUD\WinsFormsAppCRUD\obj\Debug\WinsFormsAppCRUD.exe
+C:\Users\Laeti\source\repos\WinsFormsAppCRUD\WinsFormsAppCRUD\obj\Debug\WinsFormsAppCRUD.pdb
