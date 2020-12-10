@@ -59,7 +59,6 @@ namespace WinsFormsAppCRUD
             this.butDeconnect.TabIndex = 1;
             this.butDeconnect.Text = "Deconnection";
             this.butDeconnect.UseVisualStyleBackColor = true;
-            this.butDeconnect.Click += new System.EventHandler(this.button2_Click);
             // 
             // butQuit
             // 
@@ -69,7 +68,6 @@ namespace WinsFormsAppCRUD
             this.butQuit.TabIndex = 2;
             this.butQuit.Text = "Quitter";
             this.butQuit.UseVisualStyleBackColor = true;
-            this.butQuit.Click += new System.EventHandler(this.button3_Click);
             // 
             // lblServeur
             // 
@@ -79,7 +77,6 @@ namespace WinsFormsAppCRUD
             this.lblServeur.Size = new System.Drawing.Size(64, 20);
             this.lblServeur.TabIndex = 3;
             this.lblServeur.Text = "Serveur";
-            this.lblServeur.Click += new System.EventHandler(this.label1_Click);
             // 
             // lblBdd
             // 
