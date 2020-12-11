@@ -59,6 +59,7 @@ namespace WinsFormsAppCRUD
             this.butDeconnect.TabIndex = 1;
             this.butDeconnect.Text = "Deconnection";
             this.butDeconnect.UseVisualStyleBackColor = true;
+            this.butDeconnect.Click += new System.EventHandler(this.butDeconnect_Click);
             // 
             // butQuit
             // 

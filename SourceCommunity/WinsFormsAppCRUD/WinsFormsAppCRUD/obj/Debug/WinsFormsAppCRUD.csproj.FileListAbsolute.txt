@@ -16,3 +16,5 @@ C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFormsAppCR
 C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFormsAppCRUD\obj\Debug\WinsFormsAppCRUD.csproj.CoreCompileInputs.cache
 C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFormsAppCRUD\obj\Debug\WinsFormsAppCRUD.exe
 C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFormsAppCRUD\obj\Debug\WinsFormsAppCRUD.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFormsAppCRUD\obj\Debug\WinsFormsAppCRUD.FrmFournisseur.resources
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFormsAppCRUD\obj\Debug\WinsFormsAppCRUD.FrmFournisseur2.resources

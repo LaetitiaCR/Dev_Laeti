@@ -17,8 +17,11 @@ namespace WinsFormsAppCRUD
     public partial class Form1 : Form
     {
         // objet ADO.net
-        private SqlConnection sqlConnection;
+        //private SqlConnection sqlConnection;
+        private String serverName;
+        private SqlConnection connection;
 
+        private String baseDonneesName;
         public Form1()
         {
             InitializeComponent();
@@ -37,59 +40,45 @@ namespace WinsFormsAppCRUD
             //Console.WriteLine(chaineConnexion.ConnectionString);
             //Console.WriteLine(chaineConnexion.ProviderName);
 
-            SqlConnection connection;
+          
             String connectionString = ConfigurationManager.ConnectionStrings["MyHomeServerConnection"].ConnectionString;
             connection = new SqlConnection(connectionString);
-
+            
             try
             {    
                 connection.Open();
-                string textSearched1 = "Data Source=";
-                string textAfter1;
-                textAfter1 = connectionString.Split(new string[] { textSearched1 }, StringSplitOptions.None).Last();
-                int longChaineASoustraire1;
-                longChaineASoustraire1 = connectionString.Length - textAfter1.Length;
-                string serveurName = textAfter1.Substring(0, longChaineASoustraire1+3);
 
 
+                SqlConnectionStringBuilder builder =
+                    new SqlConnectionStringBuilder(connectionString);
 
-
-                //string textSearched1 = "Data Source=";
-                string textSearched2 = "Initial Catalog =";
-                //string textAfter2;
-                //String textSearched3 = "Integrated Security = true";
-                //textBefore2 = connectionString.Split(new string[] { textSearched2 }, StringSplitOptions.None));
-                // textAfter2 = connectionString.Split(new string[] { textSearched2 }, StringSplitOptions.None).Last();
-                //textAfter3 = connectionString.Split(new string[] { textSearched3 }, StringSplitOptions.None).Last();
-
-                //int longChaineASoustraire2;
-                //longChaineASoustraire2 = (connectionString.Length- textAfter2.Length) - (connectionString.Length- textAfter3.Length);
-
-                //String posdeb = textAfter2.Substring(0, connectionString.Length- textAfter3.Length-textSearched3.Length);
-                //String posdeb = textAfter2.Substring(0, textAfter2.Length - textSearched2.Length);
-                int posdeb = textSearched1.Length + serveurName.Length + textSearched2.Length;
-                String bddName = connectionString.Substring(posdeb+1, connectionString.Length-27-posdeb);
-
-                // string baseName = textAfter2.Substring(0, longChaineASoustraire2 + 3);
-
-                // string textBefore = connectionString.Split(new string[] { textSearched2 }, StringSplitOptions.None).Last();
-
-                // int position = connectionString.IndexOf(";")
-
-                txtServeur.Text = serveurName ;
-                txtBdd.Text = bddName;
-                txtInfo.Text = "Connexion au serveur réussie";  
+                builder.ConnectionString = connectionString;
+                serverName = (string)builder["Server"];
+                baseDonneesName = (string)builder["Initial Catalog"];
+                txtServeur.Text = serverName;
+                txtBdd.Text = baseDonneesName;
+                txtInfo.Text = "Open";  
 
             }
             catch (SqlException)
             {
-                txtInfo.Text = "Erreur de connexion au serveur";
+                txtInfo.Text = "Message : Impossible d'ouvrir la base dee donnéées "
+                    + baseDonneesName + "demandée par la connexion. La connexion a échoué. Echec de l'ouverture de session de l'utilisateur  " 
+                    + serverName;
             }
             finally
             {
                 //connection.Close();
             }
                     
+        }
+
+        private void butDeconnect_Click(object sender, EventArgs e)
+        {
+            connection.Close();
+            txtServeur.Text = "";
+            txtBdd.Text = "";
+            txtInfo.Text = "La connection a été fermée";
         }
     }
 }
