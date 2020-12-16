@@ -70,6 +70,7 @@ namespace WinsFormsAppCRUD
             this.butQuitter.TabIndex = 3;
             this.butQuitter.Text = "Quitter";
             this.butQuitter.UseVisualStyleBackColor = true;
+            this.butQuitter.Click += new System.EventHandler(this.butQuitter_Click);
             // 
             // txtResult
             // 
@@ -78,6 +79,7 @@ namespace WinsFormsAppCRUD
             this.txtResult.Name = "txtResult";
             this.txtResult.Size = new System.Drawing.Size(295, 156);
             this.txtResult.TabIndex = 4;
+            this.txtResult.Visible = false;
             // 
             // FrmFournisseur
             // 

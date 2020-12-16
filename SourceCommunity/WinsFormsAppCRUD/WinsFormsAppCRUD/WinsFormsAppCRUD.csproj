@@ -65,6 +65,30 @@
     <Compile Include="FrmFournisseur2.Designer.cs">
       <DependentUpon>FrmFournisseur2.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmFournisseurCmdes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFournisseurCmdes.Designer.cs">
+      <DependentUpon>FrmFournisseurCmdes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFournisseurMAJ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFournisseurMAJ.Designer.cs">
+      <DependentUpon>FrmFournisseurMAJ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFournisseursChoix.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFournisseursChoix.Designer.cs">
+      <DependentUpon>FrmFournisseursChoix.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProduits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProduits.Designer.cs">
+      <DependentUpon>FrmProduits.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -75,6 +99,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmFournisseur2.resx">
       <DependentUpon>FrmFournisseur2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFournisseurCmdes.resx">
+      <DependentUpon>FrmFournisseurCmdes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFournisseurMAJ.resx">
+      <DependentUpon>FrmFournisseurMAJ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFournisseursChoix.resx">
+      <DependentUpon>FrmFournisseursChoix.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProduits.resx">
+      <DependentUpon>FrmProduits.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -97,6 +133,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

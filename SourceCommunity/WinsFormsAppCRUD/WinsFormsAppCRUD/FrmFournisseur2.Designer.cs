@@ -130,6 +130,7 @@ namespace WinsFormsAppCRUD
             this.butRetour.TabIndex = 24;
             this.butRetour.Text = "Retour";
             this.butRetour.UseVisualStyleBackColor = true;
+            this.butRetour.Click += new System.EventHandler(this.butRetour_Click);
             // 
             // FrmFournisseur2
             // 

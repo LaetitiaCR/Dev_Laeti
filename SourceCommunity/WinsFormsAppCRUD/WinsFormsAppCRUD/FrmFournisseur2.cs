@@ -46,5 +46,10 @@ namespace WinsFormsAppCRUD
         {
 
         }
+
+        private void butRetour_Click(object sender, EventArgs e)
+        {
+            FrmFournisseur2.ActiveForm.Close();
+        }
     }
 }

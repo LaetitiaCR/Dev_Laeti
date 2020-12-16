@@ -17,8 +17,11 @@ namespace WinsFormsAppCRUD
     public partial class FrmFournisseur : Form
     {
         private SqlConnection sqlConnect;
-        private SqlCommand sqlCde;
+      
         private SqlDataReader sqlDataRead;
+
+
+
         private int codeF;
         private string nomF;
         private string adresseF;
@@ -34,11 +37,10 @@ namespace WinsFormsAppCRUD
 
         private void butValider_Click(object sender, EventArgs e)
         {
-            //string queryString = "SELECT * FROM Fournis;";
+           
             String connectionString = ConfigurationManager.ConnectionStrings["MyHomeServerConnection"].ConnectionString;
             sqlConnect = new SqlConnection(connectionString);
             
-           // sqlCde = new SqlCommand(queryString, sqlConnect);
             
            
             
@@ -83,44 +85,24 @@ namespace WinsFormsAppCRUD
 
                 }
 
-                FrmFournisseur2 frmFour2 = new FrmFournisseur2(nomF, adresseF, cpF, villeF, contactF, satisfactionF);
-                frmFour2.Show();
+                FrmFournisseur2 frmFourni2 = new FrmFournisseur2(nomF, adresseF, cpF, villeF, contactF, satisfactionF);
+                frmFourni2.Show();
 
-
-
-                //sqlCde = new SqlCommand();
-                //sqlCde.Connection = sqlConnect;
-                //Constitution Requête SQL
-                //string strSql = "Select * from Fournis";
-                //Positionnement des propriétés
-                //sqlCde.CommandType = CommandType.Text;
-                //sqlCde.CommandText = strSql;
-                //Exécution de la commande
-                //sqlRdr = sqlCde.ExecuteReader();
-
-
-                //Lecture des données du DataReader
-                //while (sqlRdr.Read())
-                //{
-                //    int codeF = sqlRdr.GetInt16(0);
-
-                //    string nomF = sqlRdr.GetString(1);
-
-                //    txtResult.Text = txtResult.Text + codeF + " " + nomF;
-
-                //}
-                // Fin des données
-                //sqlRdr.Close();
             }
             catch (Exception ex)
             {
-                txtResult.Text = "Failled";
+                MessageBox.Show(ex.Message + "Connection failled");
             }
         }
 
         private void FrmFournisseur_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void butQuitter_Click(object sender, EventArgs e)
+        {
+            FrmFournisseur.ActiveForm.Close();
         }
     }
 }
