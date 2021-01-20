@@ -101,10 +101,10 @@ namespace WinsFormsAppCRUD
                 //listBoxProduits.Items.Add(sqlDataRead.GetInt32(0) + " " + sqlDataRead.GetDateTime(1).ToString("MM/dd/yyyy"));
                 txtBoxCode.Text = sqlDataRead.GetInt32(0).ToString();
                 txtBoxLibelle.Text = sqlDataRead.GetString(1);
-                txtBoxStockAlerte = sqlDataRead.GetString(2);
-                txtBoxStockPhysique = sqlDataRead.GetString(3);
-                txtBoxQte = sqlDataRead.GetInt32(4).ToString();
-                txtBoxUniteMesure = sqlDataRead.GetString(5);
+                //txtBoxStockAlerte = sqlDataRead.GetString(2);
+                //txtBoxStockPhysique = sqlDataRead.GetString(3);
+                //txtBoxQte = sqlDataRead.GetInt32(4).ToString();
+                //txtBoxUniteMesure = sqlDataRead.GetString(5);
             }
 
 

@@ -1,0 +1,7 @@
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppRechercherConfigBD\bin\Debug\ConsoleAppRechercherConfigBD.exe.config
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppRechercherConfigBD\bin\Debug\ConsoleAppRechercherConfigBD.exe
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppRechercherConfigBD\bin\Debug\ConsoleAppRechercherConfigBD.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppRechercherConfigBD\obj\Debug\ConsoleAppRechercherConfigBD.csproj.CoreCompileInputs.cache
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppRechercherConfigBD\obj\Debug\ConsoleAppRechercherConfigBD.exe
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppRechercherConfigBD\obj\Debug\ConsoleAppRechercherConfigBD.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppRechercherConfigBD\obj\Debug\ConsoleAppRechercherConfigBD.csprojAssemblyReference.cache

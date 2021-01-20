@@ -1,0 +1,5 @@
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ClassLibraryPersistanceSQLServer\obj\Debug\ClassLibraryPersistanceSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ClassLibraryPersistanceSQLServer\bin\Debug\ClassLibraryPersistanceSQLServer.dll
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ClassLibraryPersistanceSQLServer\bin\Debug\ClassLibraryPersistanceSQLServer.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ClassLibraryPersistanceSQLServer\obj\Debug\ClassLibraryPersistanceSQLServer.dll
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ClassLibraryPersistanceSQLServer\obj\Debug\ClassLibraryPersistanceSQLServer.pdb

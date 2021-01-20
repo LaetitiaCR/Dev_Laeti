@@ -1,0 +1,3 @@
+﻿INSERT INTO DEMANDEURDEMPLOIS(NumSecuriteSocial,Nom,Prenom,DateDInscription)VALUES(288127511510792 ,N'Martin',N'Martine','01/12/2002');
+INSERT INTO DEMANDEURDEMPLOIS(NumSecuriteSocial,Nom,Prenom,DateDInscription)VALUES(168127511510792 ,N'Durand',N'Maurice','21/12/1968');
+INSERT INTO DEMANDEURDEMPLOIS(NumSecuriteSocial,Nom,Prenom,DateDInscription)VALUES(290036815101792 ,N'Dupont',N'Pierrette','23/03/1996');

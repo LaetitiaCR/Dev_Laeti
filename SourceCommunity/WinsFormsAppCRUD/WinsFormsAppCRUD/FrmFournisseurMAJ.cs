@@ -18,7 +18,7 @@ namespace WinsFormsAppCRUD
 
         private SqlDataReader sqlDataRead;
         private bool multilignes;
-        //private bool isFournisseurExiste;
+      
         public FrmFournisseurMAJ()
         {
             InitializeComponent();
@@ -205,5 +205,83 @@ namespace WinsFormsAppCRUD
         {
 
         }
+
+        private void txtBoxNumFourni_TextChanged(object sender, EventArgs e)
+        {
+            if (VerifieLongueurNumFournisseur(this.txtBoxNumFourni.Text))
+            {
+                if (VerifieLeFormatNumFournisseur(this.txtBoxNumFourni.Text))
+                {
+                    errorProvider1.Clear();
+                }
+                else
+                {
+                    errorProvider1.SetError(this.txtBoxNumFourni, "un entier est attendu");
+                }
+
+
+            }
+            
+        }
+
+        private bool VerifieLongueurNumFournisseur(String longTexteAverifier)
+        {
+            
+            if(longTexteAverifier.Length>0 && longTexteAverifier.Length < 10)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+   
+        }
+
+        private  bool VerifieLeFormatNumFournisseur(string typeTexteAVerifier)
+        {
+            try
+            {
+                int.Parse(typeTexteAVerifier);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+
+        private void txtBoxNomFourni_TextChanged(object sender, EventArgs e)
+        {
+            if (VerifieLongueurNomFournisseur(this.txtBoxNomFourni.Text))
+            {
+                
+                errorProvider1.Clear();
+            }
+            else
+            {
+                errorProvider1.SetError(this.txtBoxNomFourni, "une chaine est attendu");
+            }
+
+
+            
+        }
+
+        private bool VerifieLongueurNomFournisseur(String longTexteAverifier)
+        {
+            //string.IsNullOrEmpty(longTexteAverifier)
+            if (longTexteAverifier.Length > 0 && longTexteAverifier.Length < 45)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
+        }
+
+
+
     }
 }

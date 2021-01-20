@@ -1,0 +1,5 @@
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmCouches\obj\Debug\WinsFrmCouches.csprojAssemblyReference.cache
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmCouches\obj\Debug\WinsFormsAppCRUD.ClassLibraryCouches.Forms.FrmFournisseur.resources
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmCouches\obj\Debug\WinsFrmCouches.Properties.Resources.resources
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmCouches\obj\Debug\WinsFrmCouches.csproj.GenerateResource.cache
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmCouches\obj\Debug\WinsFrmCouches.csproj.CoreCompileInputs.cache

@@ -21,3 +21,5 @@ C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFormsAppCR
 C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFormsAppCRUD\obj\Debug\WinsFormsAppCRUD.FrmFournisseurCmdes.resources
 C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFormsAppCRUD\obj\Debug\WinsFormsAppCRUD.FrmFournisseursChoix.resources
 C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFormsAppCRUD\obj\Debug\WinsFormsAppCRUD.FrmFournisseurMAJ.resources
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFormsAppCRUD\obj\Debug\WinsFormsAppCRUD.FrmProduits.resources
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFormsAppCRUD\obj\Debug\WinsFormsAppCRUD.csprojAssemblyReference.cache

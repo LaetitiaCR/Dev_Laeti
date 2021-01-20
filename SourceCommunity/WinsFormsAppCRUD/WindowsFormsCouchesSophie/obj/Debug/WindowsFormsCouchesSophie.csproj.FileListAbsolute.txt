@@ -1,0 +1,9 @@
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WindowsFormsCouchesSophie\bin\Debug\WindowsFormsCouchesSophie.exe.config
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WindowsFormsCouchesSophie\bin\Debug\WindowsFormsCouchesSophie.exe
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WindowsFormsCouchesSophie\bin\Debug\WindowsFormsCouchesSophie.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WindowsFormsCouchesSophie\obj\Debug\WindowsFormsCouchesSophie.Properties.Resources.resources
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WindowsFormsCouchesSophie\obj\Debug\WindowsFormsCouchesSophie.csproj.GenerateResource.cache
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WindowsFormsCouchesSophie\obj\Debug\WindowsFormsCouchesSophie.csproj.CoreCompileInputs.cache
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WindowsFormsCouchesSophie\obj\Debug\WindowsFormsCouchesSophie.exe
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WindowsFormsCouchesSophie\obj\Debug\WindowsFormsCouchesSophie.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WindowsFormsCouchesSophie\obj\Debug\WindowsFormsCouchesSophie.csprojAssemblyReference.cache

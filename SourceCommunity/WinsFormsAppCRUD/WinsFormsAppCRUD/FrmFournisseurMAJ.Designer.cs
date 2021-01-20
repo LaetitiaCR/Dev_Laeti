@@ -29,6 +29,7 @@ namespace WinsFormsAppCRUD
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.txtBoxNumFourni = new System.Windows.Forms.TextBox();
             this.txtBoxNomFourni = new System.Windows.Forms.TextBox();
             this.txtBoxRue = new System.Windows.Forms.TextBox();
@@ -47,6 +48,8 @@ namespace WinsFormsAppCRUD
             this.butCreer = new System.Windows.Forms.Button();
             this.butModifier = new System.Windows.Forms.Button();
             this.butSupprimer = new System.Windows.Forms.Button();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
             // 
             // txtBoxNumFourni
@@ -55,6 +58,7 @@ namespace WinsFormsAppCRUD
             this.txtBoxNumFourni.Name = "txtBoxNumFourni";
             this.txtBoxNumFourni.Size = new System.Drawing.Size(161, 26);
             this.txtBoxNumFourni.TabIndex = 0;
+            this.txtBoxNumFourni.TextChanged += new System.EventHandler(this.txtBoxNumFourni_TextChanged);
             // 
             // txtBoxNomFourni
             // 
@@ -62,6 +66,7 @@ namespace WinsFormsAppCRUD
             this.txtBoxNomFourni.Name = "txtBoxNomFourni";
             this.txtBoxNomFourni.Size = new System.Drawing.Size(161, 26);
             this.txtBoxNomFourni.TabIndex = 1;
+            this.txtBoxNomFourni.TextChanged += new System.EventHandler(this.txtBoxNomFourni_TextChanged);
             // 
             // txtBoxRue
             // 
@@ -201,6 +206,10 @@ namespace WinsFormsAppCRUD
             this.butSupprimer.UseVisualStyleBackColor = true;
             this.butSupprimer.Click += new System.EventHandler(this.butSupprimer_Click);
             // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
+            // 
             // FrmFournisseurMAJ
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -227,6 +236,7 @@ namespace WinsFormsAppCRUD
             this.Name = "FrmFournisseurMAJ";
             this.Text = "FrmFournisseurMAJ";
             this.Load += new System.EventHandler(this.FrmFournisseurMAJ_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -252,5 +262,7 @@ namespace WinsFormsAppCRUD
         private System.Windows.Forms.Button butCreer;
         private System.Windows.Forms.Button butModifier;
         private System.Windows.Forms.Button butSupprimer;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
+        
     }
 }

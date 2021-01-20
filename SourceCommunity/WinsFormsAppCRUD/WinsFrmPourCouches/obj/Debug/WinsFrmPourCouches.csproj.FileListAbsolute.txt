@@ -1,0 +1,13 @@
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmPourCouches\obj\Debug\WinsFrmPourCouches.csprojAssemblyReference.cache
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmPourCouches\obj\Debug\WinsFrmPourCouches.FrmFournisseur.resources
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmPourCouches\obj\Debug\WinsFrmPourCouches.Properties.Resources.resources
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmPourCouches\obj\Debug\WinsFrmPourCouches.csproj.GenerateResource.cache
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmPourCouches\obj\Debug\WinsFrmPourCouches.csproj.CoreCompileInputs.cache
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmPourCouches\bin\Debug\WinsFrmPourCouches.exe.config
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmPourCouches\bin\Debug\WinsFrmPourCouches.exe
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmPourCouches\bin\Debug\WinsFrmPourCouches.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmPourCouches\bin\Debug\ClassLibraryPersistanceSQLServer.dll
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmPourCouches\bin\Debug\ClassLibraryPersistanceSQLServer.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmPourCouches\obj\Debug\WinsFrmPourCouches.csproj.CopyComplete
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmPourCouches\obj\Debug\WinsFrmPourCouches.exe
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WinsFrmPourCouches\obj\Debug\WinsFrmPourCouches.pdb

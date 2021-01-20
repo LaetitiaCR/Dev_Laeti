@@ -19,8 +19,8 @@ namespace WinsFormsAppCRUD
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Form1());
             //Application.Run(new FrmFournisseur());
-            Application.Run(new FrmFournisseursChoix());
-            //Application.Run(new FrmFournisseurMAJ());
+            //Application.Run(new FrmFournisseursChoix());
+            Application.Run(new FrmFournisseurMAJ());
         }
     }
 }

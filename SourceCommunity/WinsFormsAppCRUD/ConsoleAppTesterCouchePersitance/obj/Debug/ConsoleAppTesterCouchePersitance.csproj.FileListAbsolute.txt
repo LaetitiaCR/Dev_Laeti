@@ -1,0 +1,10 @@
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppTesterCouchePersitance\bin\Debug\ConsoleAppTesterCouchePersitance.exe.config
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppTesterCouchePersitance\bin\Debug\ConsoleAppTesterCouchePersitance.exe
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppTesterCouchePersitance\bin\Debug\ConsoleAppTesterCouchePersitance.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppTesterCouchePersitance\bin\Debug\ClassLibraryPersistanceSQLServer.dll
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppTesterCouchePersitance\bin\Debug\ClassLibraryPersistanceSQLServer.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppTesterCouchePersitance\obj\Debug\ConsoleAppTesterCouchePersitance.csprojAssemblyReference.cache
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppTesterCouchePersitance\obj\Debug\ConsoleAppTesterCouchePersitance.csproj.CoreCompileInputs.cache
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppTesterCouchePersitance\obj\Debug\ConsoleAppTesterCouchePersitance.csproj.CopyComplete
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppTesterCouchePersitance\obj\Debug\ConsoleAppTesterCouchePersitance.exe
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\ConsoleAppTesterCouchePersitance\obj\Debug\ConsoleAppTesterCouchePersitance.pdb

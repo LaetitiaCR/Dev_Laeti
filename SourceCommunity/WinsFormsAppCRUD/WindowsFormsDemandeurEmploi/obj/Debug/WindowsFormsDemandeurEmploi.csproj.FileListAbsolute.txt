@@ -1,0 +1,4 @@
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WindowsFormsDemandeurEmploi\obj\Debug\WindowsFormsDemandeurEmploi.csprojAssemblyReference.cache
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WindowsFormsDemandeurEmploi\obj\Debug\WindowsFormsDemandeurEmploi.Properties.Resources.resources
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WindowsFormsDemandeurEmploi\obj\Debug\WindowsFormsDemandeurEmploi.csproj.GenerateResource.cache
+C:\Users\Laeti\Desktop\Dev_Laeti\SourceCommunity\WinsFormsAppCRUD\WindowsFormsDemandeurEmploi\obj\Debug\WindowsFormsDemandeurEmploi.csproj.CoreCompileInputs.cache
