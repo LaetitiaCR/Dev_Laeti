@@ -1,0 +1,6 @@
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\ClassLibraryFigureS\obj\Debug\ClassLibraryFigureS.csproj.CoreCompileInputs.cache
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\ClassLibraryFigureS\bin\Debug\ClassLibraryFigureS.dll
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\ClassLibraryFigureS\bin\Debug\ClassLibraryFigureS.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\ClassLibraryFigureS\obj\Debug\ClassLibraryFigureS.dll
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\ClassLibraryFigureS\obj\Debug\ClassLibraryFigureS.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\ClassLibraryFigureS\obj\Debug\ClassLibraryFigureS.csprojAssemblyReference.cache

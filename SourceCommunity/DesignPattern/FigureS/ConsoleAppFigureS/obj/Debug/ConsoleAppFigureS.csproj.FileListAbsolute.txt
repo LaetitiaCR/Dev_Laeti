@@ -1,0 +1,10 @@
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\ConsoleAppFigureS\obj\Debug\ConsoleAppFigureS.csprojAssemblyReference.cache
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\ConsoleAppFigureS\obj\Debug\ConsoleAppFigureS.csproj.CoreCompileInputs.cache
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\ConsoleAppFigureS\bin\Debug\ConsoleAppFigureS.exe.config
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\ConsoleAppFigureS\bin\Debug\ConsoleAppFigureS.exe
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\ConsoleAppFigureS\bin\Debug\ConsoleAppFigureS.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\ConsoleAppFigureS\bin\Debug\ClassLibraryFigureS.dll
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\ConsoleAppFigureS\bin\Debug\ClassLibraryFigureS.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\ConsoleAppFigureS\obj\Debug\ConsoleAppFigureS.csproj.CopyComplete
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\ConsoleAppFigureS\obj\Debug\ConsoleAppFigureS.exe
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\ConsoleAppFigureS\obj\Debug\ConsoleAppFigureS.pdb

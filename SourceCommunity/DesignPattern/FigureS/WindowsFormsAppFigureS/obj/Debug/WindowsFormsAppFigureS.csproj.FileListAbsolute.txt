@@ -1,0 +1,13 @@
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\WindowsFormsAppFigureS\obj\Debug\WindowsFormsAppFigureS.csprojAssemblyReference.cache
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\WindowsFormsAppFigureS\obj\Debug\WindowsFormsAppFigureS.FrmMontreFigure.resources
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\WindowsFormsAppFigureS\obj\Debug\WindowsFormsAppFigureS.Properties.Resources.resources
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\WindowsFormsAppFigureS\obj\Debug\WindowsFormsAppFigureS.csproj.GenerateResource.cache
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\WindowsFormsAppFigureS\obj\Debug\WindowsFormsAppFigureS.csproj.CoreCompileInputs.cache
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\WindowsFormsAppFigureS\bin\Debug\WindowsFormsAppFigureS.exe.config
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\WindowsFormsAppFigureS\bin\Debug\WindowsFormsAppFigureS.exe
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\WindowsFormsAppFigureS\bin\Debug\WindowsFormsAppFigureS.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\WindowsFormsAppFigureS\bin\Debug\ClassLibraryFigureS.dll
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\WindowsFormsAppFigureS\bin\Debug\ClassLibraryFigureS.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\WindowsFormsAppFigureS\obj\Debug\WindowsFormsAppFigureS.csproj.CopyComplete
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\WindowsFormsAppFigureS\obj\Debug\WindowsFormsAppFigureS.exe
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\FigureS\WindowsFormsAppFigureS\obj\Debug\WindowsFormsAppFigureS.pdb

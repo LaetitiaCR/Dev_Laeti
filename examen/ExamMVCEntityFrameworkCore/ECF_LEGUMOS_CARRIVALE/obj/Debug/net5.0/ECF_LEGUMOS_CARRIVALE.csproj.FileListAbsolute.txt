@@ -174,3 +174,6 @@ C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\examen\ExamMVCEntityFrameworkCore\E
 C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\examen\ExamMVCEntityFrameworkCore\ECF_LEGUMOS_CARRIVALE\obj\Debug\net5.0\Razor\Views\Sales\Create.cshtml.g.cs
 C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\examen\ExamMVCEntityFrameworkCore\ECF_LEGUMOS_CARRIVALE\obj\Debug\net5.0\Razor\Views\Sales\Details.cshtml.g.cs
 C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\examen\ExamMVCEntityFrameworkCore\ECF_LEGUMOS_CARRIVALE\obj\Debug\net5.0\Razor\Views\Sales\Edit.cshtml.g.cs
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\examen\ExamMVCEntityFrameworkCore\ECF_LEGUMOS_CARRIVALE\obj\Debug\net5.0\Razor\Views\Sales\Index.cshtml.g.cs
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\examen\ExamMVCEntityFrameworkCore\ECF_LEGUMOS_CARRIVALE\obj\Debug\net5.0\Razor\Views\Shared\_LayoutLegumos.cshtml.g.cs
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\examen\ExamMVCEntityFrameworkCore\ECF_LEGUMOS_CARRIVALE\obj\Debug\net5.0\Razor\Views\Index.cshtml.g.cs
