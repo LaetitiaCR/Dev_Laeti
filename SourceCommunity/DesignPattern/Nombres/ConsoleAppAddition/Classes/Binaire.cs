@@ -6,25 +6,22 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppAddition.Classes
 {
-    class Binaire : Expression
+    public abstract class  Binaire : Expression
     {
-
-        private int nb;
 
         protected Expression operandeGauche;
         protected Expression operandeDroite;
+        
         public Binaire()
         {
 
         }
-        public Binaire(Expression operandeGauche, Expression operandeeDroite)
+        public Binaire(Expression operandeGauche, Expression operandeDroite)
         {
 
         }
 
-        public override int Evaluer()
-        {
-            return nb;
-        }
+        //public abstract int Evaluer();
+
     }
 }

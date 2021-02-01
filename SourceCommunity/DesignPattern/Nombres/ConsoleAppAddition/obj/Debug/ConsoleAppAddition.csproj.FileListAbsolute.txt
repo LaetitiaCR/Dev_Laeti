@@ -1,2 +1,6 @@
-C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\Nombres\ConsoleAppAddition\obj\Debug\ConsoleAppAddition.csprojAssemblyReference.cache
 C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\Nombres\ConsoleAppAddition\obj\Debug\ConsoleAppAddition.csproj.CoreCompileInputs.cache
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\Nombres\ConsoleAppAddition\bin\Debug\ConsoleAppAddition.exe.config
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\Nombres\ConsoleAppAddition\bin\Debug\ConsoleAppAddition.exe
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\Nombres\ConsoleAppAddition\bin\Debug\ConsoleAppAddition.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\Nombres\ConsoleAppAddition\obj\Debug\ConsoleAppAddition.exe
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\Nombres\ConsoleAppAddition\obj\Debug\ConsoleAppAddition.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppAddition.Classes
 {
-    abstract class Expression
+    public abstract class Expression
     {
         
 

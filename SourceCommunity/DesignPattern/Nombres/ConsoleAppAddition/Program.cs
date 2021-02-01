@@ -11,39 +11,15 @@ namespace ConsoleAppAddition
     {
         static void Main(string[] args)
         {
-            string operateur = "+";
+                    
+            Expression expr1 = new Addition(new Nombre(33), new Nombre(33));
+            int resultat1 = expr1.Evaluer();
 
-            
-            Expression expr = new Expression();
-          
-            //int eval = expr.Evaluer();
-
-            //Nombre nb1 = new Nombre(3);
+            Expression expr2 = new Addition(new Nombre(33), new Addition(new Nombre(33), new Nombre(11)));
+            int resultat2 = expr2.Evaluer();
 
 
-            
 
-
-            Expression exprNb1 = new Nombre(2);
-            Expression exprNb2 = new Nombre(3);
-
-            Binaire bin1 = new Binaire();
-            //exprNb1.Evaluer();
-
-
-            /*
-           
-
-            Nombre nb1 = new Nombre(3);
-            Nombre nb2 = new Nombre(2);
-            */
-
-           // int eval1 = nb1.Evaluer();
-
-            if (operateur == "+")
-            {
-
-            }
         }
     }
 }

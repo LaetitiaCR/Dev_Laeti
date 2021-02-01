@@ -9,6 +9,7 @@ namespace ConsoleAppAddition.Classes
     class Soustraction : Binaire
     {
         private int nb;
+
         public Soustraction()
         {
 

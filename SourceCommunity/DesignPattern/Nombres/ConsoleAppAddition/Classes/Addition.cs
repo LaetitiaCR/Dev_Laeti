@@ -8,14 +8,24 @@ namespace ConsoleAppAddition.Classes
 {
     class Addition : Binaire
     {
+        
+        //private string chaine;
         private int nb;
+
         public Addition(Expression operandeGauche, Expression operandeDroite) : base (operandeGauche, operandeDroite)
         {
 
         }
+
         public override int Evaluer()
         {
             return nb;
         }
+
+        public override string ToString()
+        {
+            return ".nb.";
+        }
+
     }
 }
