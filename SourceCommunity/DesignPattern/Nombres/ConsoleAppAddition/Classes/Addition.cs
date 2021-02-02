@@ -10,21 +10,26 @@ namespace ConsoleAppAddition.Classes
     {
         
         //private string chaine;
-        private int nb;
+       
+       
 
         public Addition(Expression operandeGauche, Expression operandeDroite) : base (operandeGauche, operandeDroite)
         {
-
+           
+            
         }
 
         public override int Evaluer()
         {
-            return nb;
+            int resultatAdd;
+            //Expression expr1 = new Nombre();
+            resultatAdd = operandeGauche.Evaluer() + operandeDroite.Evaluer();
+            return resultatAdd;
         }
 
         public override string ToString()
         {
-            return ".nb.";
+            return ".resultatAdd.";
         }
 
     }

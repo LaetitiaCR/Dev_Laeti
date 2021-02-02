@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5ADAF573-4DA8-4B36-A391-A7BAD55C2E72}</ProjectGuid>
+    <ProjectGuid>{1586DEEA-EFB5-4483-9D37-F1B5C16E4B0C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleAppFigureS</RootNamespace>
-    <AssemblyName>ConsoleAppFigureS</AssemblyName>
+    <RootNamespace>ConsoleAppEau</RootNamespace>
+    <AssemblyName>ConsoleAppEau</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -35,7 +35,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -44,19 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Composition.cs" />
+    <Compile Include="Eau.cs" />
+    <Compile Include="Gaz.cs" />
+    <Compile Include="IEtat.cs" />
+    <Compile Include="Liquide.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="VisiteurFigurePourConsole.cs" />
+    <Compile Include="Solide.cs" />
+    <Compile Include="Transformation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagramFigureS.cd" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ClassLibraryFigureS\ClassLibraryFigureS.csproj">
-      <Project>{8312a065-7bca-4d3e-910e-a6f091f005d3}</Project>
-      <Name>ClassLibraryFigureS</Name>
-    </ProjectReference>
+    <None Include="ClassDiagramEau.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

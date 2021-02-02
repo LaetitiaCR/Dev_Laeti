@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppAddition.Classes
 {
-    class Soustraction : Binaire
+    class Soustraction
     {
         private int nb;
 
@@ -15,10 +15,10 @@ namespace ConsoleAppAddition.Classes
 
         }
 
-        public override int Evaluer()
+        /*public override int Evaluer()
         {
             return nb;
-        }
+        }*/
 
     }
 }

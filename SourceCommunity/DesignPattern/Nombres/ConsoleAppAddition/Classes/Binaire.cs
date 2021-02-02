@@ -11,17 +11,14 @@ namespace ConsoleAppAddition.Classes
 
         protected Expression operandeGauche;
         protected Expression operandeDroite;
-        
-        public Binaire()
-        {
+       
 
-        }
         public Binaire(Expression operandeGauche, Expression operandeDroite)
         {
-
+            this.operandeGauche = operandeGauche;
+            this.operandeDroite = operandeDroite;
         }
 
-        //public abstract int Evaluer();
 
     }
 }

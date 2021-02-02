@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ConsoleAppAddition.Classes.Addition">
+    <Position X="6.5" Y="5.75" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Classes\Addition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleAppAddition.Classes.Binaire">
+    <Position X="9.25" Y="3.25" Width="4.25" />
+    <InheritanceLine Type="ConsoleAppAddition.Classes.Expression" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="7.75" Y="1.796" />
+        <Point X="7.75" Y="2.724" />
+        <Point X="11.219" Y="2.724" />
+        <Point X="11.219" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="operandeDroite" Type="ConsoleAppAddition.Classes.Expression" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="13" Y="3.25" />
+        <Point X="13" Y="1.077" />
+        <Point X="8" Y="1.077" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.761" Y="0.159" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="operandeGauche" Type="ConsoleAppAddition.Classes.Expression" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="12.312" Y="3.25" />
+        <Point X="12.312" Y="1.467" />
+        <Point X="8" Y="1.467" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.747" Y="-0.376" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Classes\Binaire.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="operandeDroite" />
+      <Field Name="operandeGauche" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ConsoleAppAddition.Classes.Expression">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Classes\Expression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleAppAddition.Classes.Nombre">
+    <Position X="2" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAEAEAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Classes\Nombre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleAppAddition.Classes.Soustraction" Collapsed="true">
+    <Position X="12.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Soustraction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
