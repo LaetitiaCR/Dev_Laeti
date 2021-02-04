@@ -1,0 +1,10 @@
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\ConsoleAppEau\obj\Debug\ConsoleAppEau.csprojAssemblyReference.cache
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\ConsoleAppEau\obj\Debug\ConsoleAppEau.csproj.CoreCompileInputs.cache
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\ConsoleAppEau\bin\Debug\ConsoleAppEau.exe.config
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\ConsoleAppEau\bin\Debug\ConsoleAppEau.exe
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\ConsoleAppEau\bin\Debug\ConsoleAppEau.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\ConsoleAppEau\bin\Debug\ClassLibraryEau.dll
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\ConsoleAppEau\bin\Debug\ClassLibraryEau.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\ConsoleAppEau\obj\Debug\ConsoleAppEau.csproj.CopyComplete
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\ConsoleAppEau\obj\Debug\ConsoleAppEau.exe
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\ConsoleAppEau\obj\Debug\ConsoleAppEau.pdb

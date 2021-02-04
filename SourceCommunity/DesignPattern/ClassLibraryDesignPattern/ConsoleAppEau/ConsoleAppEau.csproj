@@ -43,19 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Composition.cs" />
-    <Compile Include="Eau.cs" />
-    <Compile Include="Gaz.cs" />
-    <Compile Include="IEtat.cs" />
-    <Compile Include="Liquide.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Solide.cs" />
-    <Compile Include="Transformation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagramEau.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibraryEau\ClassLibraryEau.csproj">
+      <Project>{906c4ac4-ebf8-43b5-8b63-5cd78dfeb065}</Project>
+      <Name>ClassLibraryEau</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

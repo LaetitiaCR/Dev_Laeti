@@ -1,0 +1,9 @@
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\WindowsFormsAppEau\bin\Debug\WindowsFormsAppEau.exe.config
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\WindowsFormsAppEau\bin\Debug\WindowsFormsAppEau.exe
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\WindowsFormsAppEau\bin\Debug\WindowsFormsAppEau.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\WindowsFormsAppEau\obj\Debug\WindowsFormsAppEau.csprojAssemblyReference.cache
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\WindowsFormsAppEau\obj\Debug\WindowsFormsAppEau.Properties.Resources.resources
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\WindowsFormsAppEau\obj\Debug\WindowsFormsAppEau.csproj.GenerateResource.cache
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\WindowsFormsAppEau\obj\Debug\WindowsFormsAppEau.csproj.CoreCompileInputs.cache
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\WindowsFormsAppEau\obj\Debug\WindowsFormsAppEau.exe
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\WindowsFormsAppEau\obj\Debug\WindowsFormsAppEau.pdb

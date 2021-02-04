@@ -1,0 +1,6 @@
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\ClassLibraryEau\bin\Debug\ClassLibraryEau.dll
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\ClassLibraryEau\bin\Debug\ClassLibraryEau.pdb
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\ClassLibraryEau\obj\Debug\ClassLibraryEau.csprojAssemblyReference.cache
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\ClassLibraryEau\obj\Debug\ClassLibraryEau.csproj.CoreCompileInputs.cache
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\ClassLibraryEau\obj\Debug\ClassLibraryEau.dll
+C:\Users\Laeti\Desktop\Dev_Laeti_VSCommunity\SourceCommunity\DesignPattern\ClassLibraryDesignPattern\ClassLibraryEau\obj\Debug\ClassLibraryEau.pdb
