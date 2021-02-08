@@ -18,10 +18,7 @@ namespace ClassLibraryEau
         private const int minTemperatureGazeux = 100;                // (100°C)      373,15 K    
         private const float minPressionGazeux = (float)220.6;        //  (220,6 bar) (22,06 MPa ou 218 atm)
 
-        public Solide()
-        {
-           
-        }
+       
 
         public override string ToString()
         {

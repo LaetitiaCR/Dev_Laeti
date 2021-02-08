@@ -12,11 +12,20 @@ namespace ConsoleAppEau
         static void Main(string[] args)
         {
             Eau e = new Eau();
+            Console.WriteLine(e.ToString());
 
-            e.AugmenterPression(10);
+            e.AugmenterPression(240);
             Console.WriteLine(e.ToString());
-            e.ChaufferTemperature(100);
+            e.ChaufferTemperature(120);
             Console.WriteLine(e.ToString());
+
+
+            
+            e.BaisserPression(-250);
+            Console.WriteLine(e.ToString());
+            e.RefroidirTemperature(-150);
+            Console.WriteLine(e.ToString());
+
         }
     }
 }

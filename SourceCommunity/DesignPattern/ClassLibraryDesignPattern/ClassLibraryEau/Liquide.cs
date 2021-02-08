@@ -18,10 +18,7 @@ namespace ClassLibraryEau
 
 
 
-        public Liquide()
-        {
-
-        }
+       
 
 
         public override string ToString()

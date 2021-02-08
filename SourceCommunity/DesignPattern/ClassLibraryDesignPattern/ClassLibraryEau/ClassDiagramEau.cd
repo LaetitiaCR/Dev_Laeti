@@ -7,15 +7,15 @@
     <Position X="6.056" Y="1.438" Height="0.389" Width="0.7" />
   </Comment>
   <Class Name="ClassLibraryEau.Gazeux">
-    <Position X="0.5" Y="8.75" Width="4" />
+    <Position X="0.5" Y="8.5" Width="5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAgAAAABAEAAAABACAAAAAAAAAIAQAAgEAIAA=</HashCode>
+      <HashCode>AAAAAAAAgAAAABAEAAAABACAAAAAAAAAAAAAAgEAIAA=</HashCode>
       <FileName>Gazeux.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="ClassLibraryEau.Liquide">
-    <Position X="7.5" Y="8.75" Width="4" />
+    <Position X="6" Y="8.5" Width="5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAgABAABAEgAAAAACABAAAAAAAAgAAAAAAAAA=</HashCode>
       <FileName>Liquide.cs</FileName>
@@ -23,7 +23,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="ClassLibraryEau.Solide">
-    <Position X="4" Y="5" Width="4" />
+    <Position X="4.25" Y="5" Width="5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAgAAAABAEAAAABACAAAAAAAAAAAAAAgEAIAA=</HashCode>
       <FileName>Solide.cs</FileName>
@@ -31,7 +31,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="ClassLibraryEau.Eau">
-    <Position X="0.5" Y="1" Width="3" />
+    <Position X="0.5" Y="1" Width="3.75" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAgAAAABAEAAAAAACAAAAAIIAAAAAAEAAAAAA=</HashCode>
       <FileName>Eau.cs</FileName>
@@ -41,7 +41,7 @@
     </ShowAsAssociation>
   </Class>
   <Interface Name="ClassLibraryEau.IEtat">
-    <Position X="7" Y="1.5" Width="3.5" />
+    <Position X="7" Y="1.5" Width="5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAgAAAABAEAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>IEtat.cs</FileName>
